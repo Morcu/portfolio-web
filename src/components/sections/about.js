@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Python',
+    'Qiskit',
+    'Rust',
+    'LangChain',
+    'Node.js',
+    'Tensorflow | Pytorch',
+    'Solidity',
+    'Cloud computing',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +144,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello, world! Or better yet, ¡Hola, mundo! I'm David Morcuende, your go-to guy for
+              tech projects that need to do more than just work — they need to dazzle. My journey
+              started with software development but has rapidly expanded into a spectrum of
+              cutting-edge tech from quantum computing to AI, and everything in between. These days,
+              you'll find me at <a href="https://www.mahou-sanmiguel.com/">Mahou San Miguel</a>, ,
+              orchestrating digital wonders.
             </p>
-
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I'm not just about work, though. I founded <u>SingularBot</u> and{' '}
+              <a href="http://galeristik.com/">Galeristik</a>, , led community efforts around{' '}
+              <a href="https://www.meetup.com/es-ES/quantummadrid/">quantum computing in Madrid,</a>
+              , , and even exhibited some{' '}
+              <a href="https://microscopegallery.com/quantum-art/"> quantum art. </a>, And, in case
+              you're wondering, yes, I've been recognized as a{' '}
+              <a href="https://qiskit.org/advocates">Qiskit Advocate</a>, a Mentor and I have a{' '}
+              <a href="https://morcu.medium.com/"> Tech blog.</a> It's not a title; it's a{' '}
+              <u>lifestyle</u>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +175,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/meC.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

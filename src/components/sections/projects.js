@@ -268,7 +268,7 @@ const Projects = () => {
       <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
+        Click here for the FULL LIST OF PROJECTS
       </Link>
 
       <ul className="projects-grid">
