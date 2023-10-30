@@ -1,13 +1,12 @@
 ---
 date: '2018-12-10'
-title: 'Pytoch exercises from the UDACITY's PyTorch Scholarship Challenge'
-github: 'https://github.com/Morcu/pytorch_exercises'
+title: 'Pytoch exercises from the UDACITYs PyTorch Scholarship Challenge'
 external: ''
-android: ''
+github: 'https://github.com/Morcu/pytorch_exercises'
 tech:
   - Python
   - Pytorch
 
-company: 'UDACITY's PyTorch Scholarship Challenge'
+company: 'UDACITYs PyTorch Scholarship Challenge'
 showInProjects: False
 ---
