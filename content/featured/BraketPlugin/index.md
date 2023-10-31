@@ -4,6 +4,8 @@ title: 'Integration of Qiskit with Amazon Braket: Democratizing Quantum Computin
 cover: './pluginIMG.png'
 github: 'https://github.com/Morcu/qiskit-braket-plugin'
 medium: 'https://medium.com/qiskit/why-i-built-a-provider-for-accessing-amazon-braket-hardware-with-qiskit-c37f723730e3'
+external: 'https://qiskit-community.github.io/qiskit-braket-provider/'
+
 tech:
   - Quantum Computing
   - Qiskit SDK
