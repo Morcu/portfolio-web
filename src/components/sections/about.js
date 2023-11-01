@@ -148,18 +148,18 @@ const About = () => {
               tech projects that need to do more than just work — they need to dazzle. My journey
               started with software development but has rapidly expanded into a spectrum of
               cutting-edge tech from quantum computing to AI, and everything in between. These days,
-              you'll find me at <a href="https://www.mahou-sanmiguel.com/">Mahou San Miguel</a>, ,
+              you'll find me at <a href="https://www.mahou-sanmiguel.com/">Mahou San Miguel</a>,
               orchestrating digital wonders.
             </p>
             <p>
               I'm not just about work, though. I founded <u>SingularBot</u> and{' '}
-              <a href="http://galeristik.com/">Galeristik</a>, , led community efforts around{' '}
-              <a href="https://www.meetup.com/es-ES/quantummadrid/">quantum computing in Madrid,</a>
-              , , and even exhibited some{' '}
+              <a href="http://galeristik.com/">Galeristik</a>, led community efforts around{' '}
+              <a href="https://www.meetup.com/es-ES/quantummadrid/">quantum computing in Madrid</a>,
+              and even exhibited some{' '}
               <a href="https://microscopegallery.com/quantum-art/"> quantum art. </a>, And, in case
               you're wondering, yes, I've been recognized as a{' '}
-              <a href="https://qiskit.org/advocates">Qiskit Advocate</a>, a Mentor and I have a{' '}
-              <a href="https://morcu.medium.com/"> Tech blog.</a> It's not a title; it's a{' '}
+              <a href="https://qiskit.org/advocates">Qiskit Advocate</a>, a Mentor. Plus, I run a{' '}
+              <a href="https://morcu.medium.com/"> Tech blog.</a> It's not just a title; it's a{' '}
               <u>lifestyle</u>.
             </p>
 
