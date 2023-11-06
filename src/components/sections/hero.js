@@ -77,8 +77,12 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a className="email-link" href="https://morcu.medium.com/" target="_blank" rel="noreferrer">
-      Check out my blog!
+    <a
+      className="email-link"
+      href="https://calendar.app.google/Gmr2TPbW92M8Fjj97"
+      target="_blank"
+      rel="noreferrer">
+      Schedule a Talk!
     </a>
   );
 
