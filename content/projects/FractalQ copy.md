@@ -5,7 +5,7 @@ github: 'https://github.com/amazon-braket/amazon-braket-algorithm-library/pull/1
 
 tech:
   - Python
-  - Qiskit
+  - Braket SDK
 
 company: 'Braket SDK'
 showInProjects: False
