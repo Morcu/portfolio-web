@@ -9,6 +9,6 @@ tech:
   - Qiskit
   - AWS
   - Braket SDK
-company: 'Qiskti'
+company: 'Qiskit'
 showInProjects: False
 ---

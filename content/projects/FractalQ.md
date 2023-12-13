@@ -8,6 +8,6 @@ tech:
   - Python
   - Qiskit
 
-company: 'Qiskti'
+company: 'Qiskit'
 showInProjects: False
 ---
