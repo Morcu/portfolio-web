@@ -148,8 +148,9 @@ const About = () => {
               tech projects that need to do more than just work — they need to dazzle. My journey
               started with software development but has rapidly expanded into a spectrum of
               cutting-edge tech from quantum computing to AI, and everything in between. These days,
-              you'll find me at <a href="https://www.mahou-sanmiguel.com/">Mahou San Miguel</a>,
-              orchestrating digital wonders.
+              you'll find me at the
+              <a href="https://www.euroquic.org/">European Quantum Industry Consortium (QuIC)</a>,
+              shaping the future of quantum technology.
             </p>
             <p>
               I'm not just about work, though. I founded <u>SingularBot</u> and{' '}

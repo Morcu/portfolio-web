@@ -3,7 +3,7 @@ date: '2022-05'
 title: 'New Technologies Expert'
 company: 'Mahou San Miguel'
 location: ''
-range: '2022 - Present'
+range: '2022 - 2024'
 url: 'https://www.mahou-sanmiguel.com/'
 ---
 

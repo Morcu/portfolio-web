@@ -66,8 +66,8 @@ const Hero = () => {
     <>
       <p>
         Welcome to the intersection of my expertise and your curiosity. When the sun's up, I'm at{' '}
-        <a href="https://www.mahou-sanmiguel.com/" target="_blank" rel="noreferrer">
-          Mahou San Miguel
+        <a href="https://www.euroquic.org/" target="_blank" rel="noreferrer">
+          European Quantum Industry Consortium (QuIC)
         </a>
         , carving out digital marvels that not only captivate but revolutionize. Oh, and
         after-hours? That's when my creativity slips its leash, frolicking in the twilight zone
